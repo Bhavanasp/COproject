@@ -3,5 +3,4 @@ Main Features
 - MIPS processor
 - MIPS pipeline
 - Caches
-<br>
-<b>Usage</b> - download the sim_cache.cpp, compile and run , for further details on usage read phase3_readme.pdf
+<b>Usage</b>: download the sim_cache.cpp, compile and run , for further details on usage read phase3_readme.pdf
