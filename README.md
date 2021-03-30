@@ -1,8 +1,6 @@
 # Mini - MIPS Simulator
+Main Features
 - MIPS processor
 - MIPS pipeline
 - Caches
-<br>
-are the main features implemented
-
-Usage - download the sim_cache.cpp and excute the file
+Usage - download the sim_cache.cpp, compile and run , for further details on usage read phase3_readme.pdf
